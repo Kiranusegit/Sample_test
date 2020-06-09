@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_KwqTwao6Eeq78Kp_N1vyHA" label="Sample_test" language="java" technicalLabel="SAMPLE_TEST" author="_Kwq60Ko6Eeq78Kp_N1vyHA" productVersion="Talend Cloud Real-Time Big Data Platform-7.2.1.20190620_1446" url="{&quot;location&quot;:&quot;https://github.com/Kiranusegit/Sample_test.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+  <TalendProperties:Project xmi:id="_KwqTwao6Eeq78Kp_N1vyHA" label="Sample_test" language="java" technicalLabel="SAMPLE_TEST" author="_Kwq60Ko6Eeq78Kp_N1vyHA" productVersion="Talend Cloud Real-Time Big Data Platform-7.2.1.20190620_1446" url="{&quot;location&quot;:&quot;https://github.com/Kiranusegit/Sample_test.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_LCN90Ko6Eeq78Kp_N1vyHA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Kwq60Ko6Eeq78Kp_N1vyHA" login="kmahadevappa@support.talend.com" firstName="Kiran" lastName="Kumar" type="DQ"/>
