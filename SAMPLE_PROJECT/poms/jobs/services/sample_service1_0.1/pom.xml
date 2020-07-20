@@ -10,7 +10,7 @@
   </parent>
   <groupId>org.example.sample_project.service</groupId>
   <artifactId>Sample_service1</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>SAMPLE_PROJECT Sample_service1-${project.version} (0.1,Services) Kar</name>
   <modules>
