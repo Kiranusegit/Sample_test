@@ -14,6 +14,7 @@
   <packaging>pom</packaging>
   <name>SAMPLE_PROJECT Sample_service1-${project.version} (0.1,Services) Kar</name>
   <modules>
+    <module>../../process/Sample_service1/Sample_service1PortType/Sample_service1Operation/sample_service1porttype_sample_service1operation_0.1</module>
     <module>pom-control-bundle.xml</module>
     <module>pom-feature.xml</module>
   </modules>
